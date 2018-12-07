@@ -1,2 +1,2 @@
-#E-Learning project
-This is my app
+This is a Hard-Collage Dreamers Project 
+As the name indicates its for a helpful project for preparatory students for taking exam and courses 
